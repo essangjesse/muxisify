@@ -1,0 +1,11 @@
+@media screen and (min-width: 767px) {
+  .music-detail.w-350 {
+    width: 350px;
+  }
+}
+
+.iq-music-img-custom{
+	position: relative;
+    flex-direction: column;
+    z-index: 5;
+}
